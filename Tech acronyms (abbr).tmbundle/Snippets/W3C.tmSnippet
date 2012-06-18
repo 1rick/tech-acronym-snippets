@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="World Wide Web Consortium"&gt;W3C&lt;/abbr&gt; </string>
+	<key>name</key>
+	<string>W3C</string>
+	<key>tabTrigger</key>
+	<string>W3C</string>
+	<key>uuid</key>
+	<string>C0F9FF5C-0F60-441E-9C24-E88C00B849F3</string>
+</dict>
+</plist>

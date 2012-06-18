@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="Small- and medium-sized enterprise"&gt;SME&lt;/abbr&gt; </string>
+	<key>name</key>
+	<string>SMEs</string>
+	<key>tabTrigger</key>
+	<string>SME</string>
+	<key>uuid</key>
+	<string>4BC6CDAD-8194-4FFD-8BF3-8D734D4A216F</string>
+</dict>
+</plist>

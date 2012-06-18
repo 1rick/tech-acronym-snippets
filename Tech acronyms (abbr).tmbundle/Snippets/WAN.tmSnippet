@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="Wide Area Network"&gt;WAN&lt;/abbr&gt; </string>
+	<key>name</key>
+	<string>WAN</string>
+	<key>tabTrigger</key>
+	<string>WAN</string>
+	<key>uuid</key>
+	<string>FDDE25DB-6176-49DD-8DAE-10C375A5B6F4</string>
+</dict>
+</plist>

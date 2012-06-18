@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="Time Division Long-Term Evolution"&gt;TD-LTE&lt;/abbr&gt; </string>
+	<key>name</key>
+	<string>TD-LTE</string>
+	<key>tabTrigger</key>
+	<string>TD-LTE</string>
+	<key>uuid</key>
+	<string>448AB4C5-A041-45DB-9407-EDE4F1D95A5B</string>
+</dict>
+</plist>

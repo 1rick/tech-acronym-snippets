@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="Domain Name System"&gt;DNS&lt;/abbr&gt; </string>
+	<key>name</key>
+	<string>DNS</string>
+	<key>tabTrigger</key>
+	<string>DNS</string>
+	<key>uuid</key>
+	<string>C520FE20-A50C-460E-AF9E-1C4B98D650DB</string>
+</dict>
+</plist>

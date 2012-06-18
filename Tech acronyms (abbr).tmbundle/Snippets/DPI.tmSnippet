@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="Dots Per Inch"&gt;DPI&lt;/abbr&gt; </string>
+	<key>name</key>
+	<string>DPI</string>
+	<key>tabTrigger</key>
+	<string>DPI</string>
+	<key>uuid</key>
+	<string>93BD406A-3CC6-4D99-9100-67A2FAE8454D</string>
+</dict>
+</plist>

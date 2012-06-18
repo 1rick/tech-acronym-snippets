@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="Local Area Network"&gt;LAN&lt;/abbr&gt; </string>
+	<key>name</key>
+	<string>LAN</string>
+	<key>tabTrigger</key>
+	<string>LAN</string>
+	<key>uuid</key>
+	<string>446A1A34-860D-4978-8F26-1764C48BDBAE</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="Virtual Private Network"&gt;vpn&lt;/abbr&gt; </string>
+	<key>name</key>
+	<string>VPN</string>
+	<key>tabTrigger</key>
+	<string>VPN</string>
+	<key>uuid</key>
+	<string>6E2FE5B6-179C-453F-A819-D01A09C07E8E</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="In-Plane Switching"&gt;IPS&lt;/abbr&gt; </string>
+	<key>name</key>
+	<string>IPS</string>
+	<key>tabTrigger</key>
+	<string>IPS</string>
+	<key>uuid</key>
+	<string>C27888D2-C29A-4484-A8D3-DDD3143F086B</string>
+</dict>
+</plist>

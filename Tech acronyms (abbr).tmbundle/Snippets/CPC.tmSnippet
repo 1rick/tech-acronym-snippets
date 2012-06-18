@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="Cost Per Click"&gt;CPC&lt;/abbr&gt; </string>
+	<key>name</key>
+	<string>CPC</string>
+	<key>tabTrigger</key>
+	<string>CPC</string>
+	<key>uuid</key>
+	<string>45F3DAD8-066D-455D-8C53-CF8404F1AE22</string>
+</dict>
+</plist>

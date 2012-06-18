@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="consumer-to-consumer"&gt;C2C&lt;/abbr&gt; </string>
+	<key>name</key>
+	<string>C2C</string>
+	<key>tabTrigger</key>
+	<string>C2C</string>
+	<key>uuid</key>
+	<string>2F17C837-A4DF-41DC-A3EB-9868E9A23F20</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="User Generated Content, especially with regards video"&gt;UGC&lt;/abbr&gt; </string>
+	<key>name</key>
+	<string>UGC</string>
+	<key>tabTrigger</key>
+	<string>UGC</string>
+	<key>uuid</key>
+	<string>313F770A-AE3B-4595-AC8C-8DB7A9A16FDF</string>
+</dict>
+</plist>

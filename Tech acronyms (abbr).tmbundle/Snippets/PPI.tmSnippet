@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="Pixels Per Inch"&gt;PPI&lt;/abbr&gt; </string>
+	<key>name</key>
+	<string>PPI</string>
+	<key>tabTrigger</key>
+	<string>PPI</string>
+	<key>uuid</key>
+	<string>A3FD06A4-6876-434A-BFD0-410E67AE5505</string>
+</dict>
+</plist>

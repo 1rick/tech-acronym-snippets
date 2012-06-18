@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="customer relationship management"&gt;CRM&lt;/abbr&gt; </string>
+	<key>name</key>
+	<string>CRM</string>
+	<key>tabTrigger</key>
+	<string>CRM</string>
+	<key>uuid</key>
+	<string>87E10DC3-FDE0-4CB2-8237-ED465FC17DE0</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="BlackBerry Messenger"&gt;BBM&lt;/abbr&gt; </string>
+	<key>name</key>
+	<string>BBM</string>
+	<key>tabTrigger</key>
+	<string>BBM</string>
+	<key>uuid</key>
+	<string>6F29B86F-CD70-4087-BF95-065D930AD0D1</string>
+</dict>
+</plist>

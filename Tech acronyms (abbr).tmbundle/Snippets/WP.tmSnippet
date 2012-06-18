@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="Windows Phone"&gt;WP&lt;/abbr&gt; </string>
+	<key>name</key>
+	<string>WP</string>
+	<key>tabTrigger</key>
+	<string>WP</string>
+	<key>uuid</key>
+	<string>B10DF43C-19B0-4101-ABB5-8F5A3B80289D</string>
+</dict>
+</plist>

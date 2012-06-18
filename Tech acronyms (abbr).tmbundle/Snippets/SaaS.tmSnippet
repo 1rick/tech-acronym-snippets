@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="Software as a Service"&gt;SaaS&lt;/abbr&gt; </string>
+	<key>name</key>
+	<string>SaaS</string>
+	<key>tabTrigger</key>
+	<string>SaaS</string>
+	<key>uuid</key>
+	<string>9C434389-C1CA-41E3-8E6A-35799B3F2753</string>
+</dict>
+</plist>

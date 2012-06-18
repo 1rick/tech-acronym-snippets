@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="Wideband Code Division Multiple Access"&gt;WCDMA&lt;/abbr&gt; </string>
+	<key>name</key>
+	<string>WCDMA</string>
+	<key>tabTrigger</key>
+	<string>WCDMA</string>
+	<key>uuid</key>
+	<string>AB620524-21E0-40B3-94F1-6ACB4A6D1117</string>
+</dict>
+</plist>

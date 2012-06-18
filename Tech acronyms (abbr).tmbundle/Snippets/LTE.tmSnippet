@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="Long Term Evolution"&gt;LTE&lt;/abbr&gt; </string>
+	<key>name</key>
+	<string>LTE</string>
+	<key>tabTrigger</key>
+	<string>LTE</string>
+	<key>uuid</key>
+	<string>B207860C-6841-4AF9-A8B3-2D704ED8B48A</string>
+</dict>
+</plist>

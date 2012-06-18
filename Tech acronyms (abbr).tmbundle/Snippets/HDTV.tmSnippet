@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="High Definition Televsion"&gt;HDTV&lt;/abbr&gt; </string>
+	<key>name</key>
+	<string>HDTV</string>
+	<key>tabTrigger</key>
+	<string>HDTV</string>
+	<key>uuid</key>
+	<string>C74D29DE-0A3E-4BA2-B8E9-B70688FC1ECB</string>
+</dict>
+</plist>

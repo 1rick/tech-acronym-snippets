@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="Peer-to-Peer"&gt;P2P&lt;/abbr&gt; </string>
+	<key>name</key>
+	<string>P2P</string>
+	<key>tabTrigger</key>
+	<string>P2P</string>
+	<key>uuid</key>
+	<string>2A80AD2D-FFC1-46A2-8860-BFFA2DD4764B</string>
+</dict>
+</plist>

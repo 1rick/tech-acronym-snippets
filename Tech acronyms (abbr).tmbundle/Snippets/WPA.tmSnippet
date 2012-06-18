@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="Wi-Fi Protected Access"&gt;WPA&lt;/abbr&gt; </string>
+	<key>name</key>
+	<string>WPA</string>
+	<key>tabTrigger</key>
+	<string>WPA</string>
+	<key>uuid</key>
+	<string>AAF19B6D-3417-4D8B-BFE4-566738B96EE4</string>
+</dict>
+</plist>

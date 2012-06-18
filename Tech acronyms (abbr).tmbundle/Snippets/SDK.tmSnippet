@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="Software Development Kit"&gt;SDK&lt;/abbr&gt; </string>
+	<key>name</key>
+	<string>SDK</string>
+	<key>tabTrigger</key>
+	<string>SDK</string>
+	<key>uuid</key>
+	<string>CBAC5C97-E65E-4A52-8B3C-FC5F97FCCDF6</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="Search Engine Optimization"&gt;SEO&lt;/abbr&gt; </string>
+	<key>name</key>
+	<string>SEO</string>
+	<key>tabTrigger</key>
+	<string>SEO</string>
+	<key>uuid</key>
+	<string>345E0D6E-7F30-404E-A0D8-9C339A572EF9</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="Internet Corporation For Assigned Names and Numbers"&gt;ICANN&lt;/abbr&gt; </string>
+	<key>name</key>
+	<string>ICANN</string>
+	<key>tabTrigger</key>
+	<string>iCANN</string>
+	<key>uuid</key>
+	<string>E7A6E128-E7D1-429C-8936-2C0FB6CF32BB</string>
+</dict>
+</plist>

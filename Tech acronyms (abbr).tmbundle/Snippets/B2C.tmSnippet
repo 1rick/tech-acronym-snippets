@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="business-to-consumer"&gt;B2C&lt;/abbr&gt; </string>
+	<key>name</key>
+	<string>B2C</string>
+	<key>tabTrigger</key>
+	<string>B2C</string>
+	<key>uuid</key>
+	<string>E4F6D0DF-F44F-43CA-9F54-9DA05B5D4E06</string>
+</dict>
+</plist>

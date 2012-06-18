@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="Code division multiple access"&gt;CDMA&lt;/abbr&gt; </string>
+	<key>name</key>
+	<string>CDMA</string>
+	<key>tabTrigger</key>
+	<string>CDMA</string>
+	<key>uuid</key>
+	<string>497DAD68-B517-4809-9BF5-C211343F72DA</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="Multimedia Messaging Service"&gt;MMS&lt;/abbr&gt; </string>
+	<key>name</key>
+	<string>MMS</string>
+	<key>tabTrigger</key>
+	<string>MMS</string>
+	<key>uuid</key>
+	<string>14CFEEF9-C127-453D-BA73-EA6F6703FCF6</string>
+</dict>
+</plist>

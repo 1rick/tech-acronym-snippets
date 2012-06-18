@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="Voice Over Internet Protocol"&gt;VoIP&lt;/abbr&gt; </string>
+	<key>name</key>
+	<string>VoIP</string>
+	<key>tabTrigger</key>
+	<string>VoIP</string>
+	<key>uuid</key>
+	<string>D55C4E8A-14F9-4DB5-B1D5-1ECA0A5492AA</string>
+</dict>
+</plist>

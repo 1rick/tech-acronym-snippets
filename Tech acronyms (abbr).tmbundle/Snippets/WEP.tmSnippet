@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="Wired Equivalent Privacy"&gt;WEP&lt;/abbr&gt; </string>
+	<key>name</key>
+	<string>WEP</string>
+	<key>tabTrigger</key>
+	<string>WEP</string>
+	<key>uuid</key>
+	<string>E0AE90ED-1A4C-4DD7-9596-E69E87CE6A56</string>
+</dict>
+</plist>
